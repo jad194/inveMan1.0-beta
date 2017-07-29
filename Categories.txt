@@ -1,0 +1,5 @@
+Clothing
+Lumber
+Hardware
+Toiletry
+Food
